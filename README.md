@@ -1,16 +1,8 @@
-# welcome_and_login_screen
+## Welcome - Login Screen
 
-A new Flutter project.
+I've done this Flutter UI project for educational purpose.
 
-## Getting Started
+- UI Design Credit : [Baking Lessons - Splash & Auth](https://dribbble.com/shots/6590725-Baking-Lessons-Splash-Auth)
+- Flutter Tutorial Credit : [The Flutter Way](https://www.youtube.com/c/TheFlutterWay)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Mockup](https://cdn.dribbble.com/users/556464/screenshots/6590725/baking_lessons_auth_screens_4x.jpg?compress=1&resize=1000x750)
